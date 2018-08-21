@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <include file="$(find my_snake_robot)/launch/spawn_snake.launch"/>
+  <include file="$(find my_snake_robot)/launch/snake_control.launch"/>
+</launch>
