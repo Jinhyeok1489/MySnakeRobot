@@ -1,0 +1,5 @@
+<library path="lib/libmy_snake_robot_lib">
+  <class name="my_snake_robot/PositionController" 
+         type="controller_ns::PositionController"           
+         base_class_type="controller_interface::ControllerBase" />
+</library>
